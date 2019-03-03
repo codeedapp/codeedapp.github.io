@@ -1,0 +1,118 @@
+{
+    "dir": "ltr",
+    "lang": "da",
+    "name": "Code.Ed",
+    "scope": "/sample-frame.html",
+    "display": "standalone",
+    "start_url": "https://codeedapp.github.io/sample-frame.html",
+    "short_name": "Code.Ed",
+    "theme_color": "transparent",
+    "description": "Code.Ed is an interactive game to teach coding and science to kids.",
+    "orientation": "landscape",
+    "background_color": "transparent",
+    "related_applications": [
+        {
+            "platform": "Android",
+            "url": "https://play.google.com/store/apps/details?id=wordpress.com.codeed583136486",
+            "id": "wordpress.com.codeed583136486"
+        }
+    ],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/211dd97d-0f3e-7663-253b-39a311d85060.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ebccbd4e-a7a9-e095-1283-753aec657aca.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/13df4f69-b391-3def-9967-215bf7596e7c.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d219328f-5a4e-7c9d-b68e-bebe52779fd9.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e9f49900-58d4-4f96-359d-4b3942d144b9.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/feb41279-f7f8-6fe3-24b7-95c3a03fb14d.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/693d48d7-d6cf-15e3-06cd-9f380a8d1537.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6dc2b255-a744-1cc1-8742-13485465301a.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0f70e5d1-8071-107b-d50b-cacca4c04f95.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/45ae1885-f663-26ce-e89d-5c1c7286ec78.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e470c94b-4ea2-7e7b-8ff0-536c90fa5c25.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/72516336-40c0-9094-ae61-f92bab4571c5.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/39c3cc74-8725-ff0f-88e3-a2f3bd3c6f5c.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c0b9bc7a-b0c1-76cf-de17-d99594b600ea.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ios/ios-appicon-1024-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/65eb96fa-5c0c-8582-da19-452e69ce7140.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e6fb2039-eeb9-ea8a-1eaf-55c13a2e19aa.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/00576155-30a6-aeec-d0f1-f48013464a56.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e0371372-6b94-2631-f5fb-1d101dbd8060.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
