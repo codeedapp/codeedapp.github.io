@@ -6,10 +6,10 @@
     "display": "standalone",
     "start_url": "https://codeedapp.github.io/sample-frame.html",
     "short_name": "Code.Ed",
-    "theme_color": "transparent",
+    "theme_color": "blue",
     "description": "Code.Ed is an interactive game to teach coding and science to kids.",
     "orientation": "landscape",
-    "background_color": "transparent",
+    "background_color": "lightblue",
     "related_applications": [
         {
             "platform": "Android",
