@@ -42,7 +42,7 @@
 
 .gse-dialog>div:last-child {
 	background-color: #000;
-	height: 36px;
+	height: 0px;
 }
 
 .gse-dialog>div:last-child p {
