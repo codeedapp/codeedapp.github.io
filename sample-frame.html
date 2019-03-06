@@ -7,6 +7,7 @@
 <meta name="theme-color" content="#063684">
 <title>Code.Ed</title>
 <link href="manifest.json" rel="manifest">
+<link href="pwabuilder-sw-register.js" rel="javascript">
 <script>
 // This is the "Offline page" service worker
 
@@ -20,7 +21,7 @@ if ("serviceWorker" in navigator) {
     // Register the service worker
     navigator.serviceWorker
       .register("pwabuilder-sw.js", {
-        scope: "./serviceWorker1"
+        scope: "./"
       })
       .then(function (reg) {
         console.log("[PWA Builder] Service worker has been registered for scope: " + reg.scope);
