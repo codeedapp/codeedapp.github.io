@@ -12,7 +12,6 @@
 <iframe src="sample-inline.html" width="1100" height="800" style="border: none;"></iframe>
 <div><p>If it doesn't work does it take away the error?</p></div>
 </body>
-<script src="sample-frame.js"></script>
 <script>
 // This is the service worker with the Cache-first network
 
@@ -26,7 +25,7 @@ if ("serviceWorker" in navigator) {
     // Register the service worker
     navigator.serviceWorker
       .register("pwabuilder-sw.js", {
-        scope: "serviceWorker1/"
+        scope: "./"
       })
       .then(function (reg) {
         console.log("[PWA Builder] Service worker has been registered for scope: " + reg.scope);
