@@ -10,7 +10,8 @@
 </head>
 <body>
 <iframe src="sample-inline.html" width="1100" height="800" style="border: none;"></iframe>
-<script>if ('serviceWorker' in navigator) {
+<script>
+if ('serviceWorker' in navigator) {
   window.addEventListener('load', function() {
     navigator.serviceWorker.register('pwabuilder-sw.js').then(function(registration) {
       // Registration was successful
