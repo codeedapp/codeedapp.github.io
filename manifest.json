@@ -20,10 +20,9 @@
     "prefer_related_applications": false,
     "icons": [
     {
-      "src": "/assets/icons-512.png",
+      "src": "/Assets/NEW Code-ED logo rezized.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-    ]
 }
