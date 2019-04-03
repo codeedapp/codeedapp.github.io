@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<script src="index.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=1920px, initial-scale=1.0">
 <meta name="theme-color" content="#063684">
@@ -11,5 +10,18 @@
 </head>
 <body>
 <iframe src="sample-inline.html" width="1100" height="800" style="border: none;"></iframe>
+<script>
+  if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('service-worker.js')
+    .then(registration => {
+      console.log('Service Worker is registered', registration);
+    })
+    .catch(err => {
+      console.error('Registration failed:', err);
+    });
+  });
+}
+</script>
 </body>
 </html>
