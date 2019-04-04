@@ -8,6 +8,18 @@ self.addEventListener('activate', event => {
   console.log('Service worker activating...');
 });
 
-self.addEventListener('fetch', event => {
-  console.log('Fetching:', event.request.url);
+self.addEventListener('fetch', function(event) {
+
+console.log(event.request.url);
+
+event.respondWith(
+
+caches.match(event.request).then(function(response) {
+
+return response || fetch(event.request);
+
+})
+
+);
+
 });
