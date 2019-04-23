@@ -1,25 +1,21 @@
-{"dir" : "ltr",
-    "lang" : "EN",
-    "name" : "Code.Ed",
-    "scope" : "/sample-frame.html",
-    "display" : "standalone",
-    "start_url" : "https://codeedapp.github.io/sample-frame.html",
-    "short_name" : "Code.Ed",
-    "theme_color" : "#062782",
-    "description" : "Code.Ed is an interactive game to teach coding and science to kids.",
-    "orientation" : "landscape",
-    "background_color" : "#062782",
-    "related_applications" : [
-        {
-            "platform": "Android",
-            "url": "https://play.google.com/store/apps/details?id=wordpress.com.codeed583136486",
-            "id": "wordpress.com.codeed583136486"
-        }
-    ],
-    "prefer_related_applications" : false,
-    "icons" : [
-        {
-            "src": "https://codeedapp.github.io/Assets/NEW Code-ED logo rezized.png",
-            "sizes": "512x512"
-        }
-    ]}
+
+    {"dir" : "ltr",
+        "lang" : "EN",
+        "name" : "Code.Ed",
+        "scope" : "/sample-frame.html",
+        "display" : "standalone",
+        "start_url" : "https://codeedapp.github.io/sample-frame.html",
+        "short_name" : "Code.Ed",
+        "theme_color" : "#062782",
+        "description" : "Code.Ed is an interactive game to teach coding and science to kids.",
+        "orientation" : "landscape",
+        "background_color" : "#062782",
+        "related_applications" : "[object Object]",
+        "prefer_related_applications" : "false",
+        "generated" : "undefined",
+        "icons" : [
+            {
+                "src": "https://codeedapp.github.io/Assets/NEW Code-ED logo rezized.png",
+                "sizes": "512x512"
+            }
+        ]}
