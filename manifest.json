@@ -1,5 +1,5 @@
 {"dir" : "ltr",
-    "lang" : "da",
+    "lang" : "EN",
     "name" : "Code.Ed",
     "scope" : "/sample-frame.html",
     "display" : "standalone",
@@ -16,8 +16,7 @@
             "id": "wordpress.com.codeed583136486"
         }
     ],
-    "prefer_related_applications" : "false",
-    "generated" : "undefined",
+    "prefer_related_applications" : false,
     "icons" : [
         {
             "src": "https://codeedapp.github.io/Assets/NEW Code-ED logo rezized.png",
